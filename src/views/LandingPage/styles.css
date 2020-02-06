@@ -1,0 +1,15 @@
+#example-five {
+  position: relative;
+}
+
+#example-five-checkbox {
+  display: none;
+}
+
+#example-five-checkbox:checked+#example-five:after {
+  content: ": Icons made by Freepik from www.flaticon.com";
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}

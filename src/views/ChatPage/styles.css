@@ -1,0 +1,17 @@
+html {
+  background: rgba(218, 16, 91, 1);
+  height: 100%;
+}
+
+.form__input {
+  width: 100%;
+  padding: 15px 20px;
+  border-radius: 5px 0 0 5px;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  outline: 0;
+}
+
+a {
+  cursor: pointer;
+}
